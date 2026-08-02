@@ -1,8 +1,29 @@
 aid: ujet
 name: UJET
-description: 'UJET is a company surfaced as a portfolio company of dcm-ventures, gv, sapphire-ventures
-  and added to the API Evangelist network as a stub for enrichment. Sector: enterprise. This profile is
-  a lead awaiting the enrichment pipeline.'
+description: >-
+  UJET is an AI-powered cloud contact center (CCaaS) platform that unifies
+  voice, chat, SMS, email, WhatsApp, and in-app mobile support into a single
+  agentic customer-experience system. Built CRM-native so PII stays in the
+  customer's CRM rather than the contact center layer, UJET pairs its CCaaS
+  foundation with Agentic Experience Orchestration (AXO) and Spiral
+  conversational intelligence, and ships embedded mobile and web SDKs for
+  in-app support. UJET is the platform behind Google Cloud's Contact Center
+  AI (CCAI) Platform and is backed by GV, DCM Ventures, and Sapphire
+  Ventures. Its developer documentation is login-gated; the publicly
+  verifiable developer surface is its SDKs, GitHub organization, status
+  page, and SLA.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://assets.ujet.cx/website-mage2_Social-LI-TW.png
 url: https://raw.githubusercontent.com/api-evangelist/ujet/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -13,11 +34,23 @@ x-backed-by:
 x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 7
+  pass: local-v1
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Enterprise
+- Contact Center
+- CCaaS
+- Customer Experience
+- Artificial Intelligence
+- Voice
+- Messaging
+- Support
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -27,3 +60,35 @@ maintainers:
 common:
 - type: Website
   url: https://ujet.cx/
+- type: Blog
+  url: https://ujet.cx/blog
+- type: Pricing
+  url: https://ujet.cx/pricing
+- type: Support
+  url: https://support.ujet.co
+- type: GitHubOrganization
+  url: https://github.com/ujet
+- type: TermsOfService
+  url: https://ujet.cx/terms-of-service
+- type: PrivacyPolicy
+  url: https://ujet.cx/privacy-notice
+- type: StatusPage
+  url: https://env.status.ujet.cx
+- type: Compliance
+  url: https://ujet.cx/security
+- type: LLMsTxt
+  url: llms/ujet-llms.txt
+- type: Packages
+  url: packages/ujet-packages.yml
+- type: SDKs
+  url: packages/ujet-packages.yml
+- type: WellKnown
+  url: well-known/ujet-well-known.yml
+- type: Conformance
+  url: conformance/ujet-conformance.yml
+- type: Lifecycle
+  url: lifecycle/ujet-lifecycle.yml
+- type: Components
+  url: components/ujet-components.yml
+- type: DomainSecurity
+  url: security/ujet-domain-security.yml

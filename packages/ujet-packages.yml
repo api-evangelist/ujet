@@ -1,0 +1,48 @@
+generated: '2026-07-21'
+method: searched
+source: https://registry.npmjs.org/-/v1/search?text=%40ujet + https://github.com/ujet + https://trunk.cocoapods.org/api/v1/pods/Ujet
+description: >-
+  First-party UJET client libraries verified against the public registries.
+  UJET's developer documentation (ujet.readme.io, support.ujet.co) is
+  login-gated, so this list reflects only what is publicly verifiable: the
+  npm headless WebSDK, the iOS SDK Swift Packages on the ujet GitHub org,
+  and a legacy CocoaPods pod. The Android SDK is distributed from UJET's own
+  host (https://sdk.ujet.co/, HTTP 403 to anonymous clients), not Maven
+  Central — a Maven Central search for "ujet" returned no artifacts.
+packages:
+  - language: javascript
+    registry: npm
+    name: "@ujet/websdk-headless"
+    version: 4.39.0
+    url: https://www.npmjs.com/package/@ujet/websdk-headless
+    install: npm install @ujet/websdk-headless --save
+    description: A prebuilt infrastructure for communicating with your CCaaS servers (headless UJET WebSDK).
+    official: true
+    evidence: Published by ujet-admin (techadmin@ujet.co) via trusted GitHub OIDC; latest publish 2026-06-05.
+  - language: swift
+    registry: swift-package-manager
+    name: ujet-ios-sdk-sp
+    version: 2.16.0
+    url: https://github.com/ujet/ujet-ios-sdk-sp
+    install: 'Swift Package Manager: add https://github.com/ujet/ujet-ios-sdk-sp'
+    description: Swift Package for the UJET iOS SDK (embedded in-app support).
+    official: true
+    evidence: Repository in the ujet GitHub organization; latest tag 2.16.0.
+  - language: swift
+    registry: swift-package-manager
+    name: ccai-ios-sdk
+    version: 3.3.2
+    url: https://github.com/ujet/ccai-ios-sdk
+    install: 'Swift Package Manager: add https://github.com/ujet/ccai-ios-sdk'
+    description: iOS SDK Swift Package for the CCAI Platform (Google Cloud Contact Center AI Platform, built with UJET).
+    official: true
+    evidence: Repository in the ujet GitHub organization; latest tag 3.3.2.
+  - language: objective-c
+    registry: cocoapods
+    name: Ujet
+    version: 0.1.0
+    url: https://cocoapods.org/pods/Ujet
+    install: pod 'Ujet'
+    description: Legacy UJET CocoaPods pod (single 0.1.0 release from 2015; superseded by the Swift Package).
+    official: true
+    evidence: CocoaPods trunk owner jaesung@ujet.co; published 2015-12-30.

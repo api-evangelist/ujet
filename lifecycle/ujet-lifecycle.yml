@@ -1,0 +1,31 @@
+generated: '2026-07-21'
+method: searched
+source: https://ujet.cx/service-level-agreement
+description: >-
+  UJET's published operational posture. The company runs an Atlassian
+  Statuspage at env.status.ujet.cx (linked from the ujet.cx footer as "System
+  Status"; the page itself is access-gated — anonymous requests are redirected
+  to a Statuspage login). The SLA is public and commits to 99.999% monthly
+  availability for real-time interactions. No public API versioning or
+  deprecation policy exists — developer documentation is login-gated
+  (ujet.readme.io, support.ujet.co), so no Deprecation pointer is emitted.
+status_page: https://env.status.ujet.cx
+status_page_note: Atlassian Statuspage; access-gated (302 to /access/login for anonymous visitors).
+sla:
+  url: https://ujet.cx/service-level-agreement
+  uptime_target: '99.999%'
+  scope: Real-Time Interactions (voice calls and IVR routing), measured monthly.
+  claims: Submit within 30 days to support@ujet.cx with subject "SLA Claim".
+  credits:
+    - range: 99.99% to 99.999%
+      credit: 10% of monthly fees
+    - range: 99.9% to 99.99%
+      credit: 25% of monthly fees
+    - range: 99% to 99.9%
+      credit: 50% of monthly fees
+    - range: below 99%
+      credit: 100% of monthly fees
+versioning: null
+versioning_note: No public versioning policy; developer docs are login-gated.
+deprecation: null
+deprecated_operations: []

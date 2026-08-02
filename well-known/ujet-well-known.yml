@@ -1,0 +1,42 @@
+generated: '2026-07-21'
+method: searched
+description: >-
+  Results of probing the /.well-known/ discovery surface for UJET's public
+  hosts. apis.yml lists no API baseURL (UJET publishes no public API docs;
+  ujet.readme.io answers 401 and the support.ujet.co Zendesk help center is
+  login-gated), so the probes cover the marketing host ujet.cx, the legacy
+  ujet.co domain (308-redirects to ujet.cx), and api.ujet.co (no reachable
+  HTTPS endpoint). Status is the HTTP code observed at fetch time. The one
+  real discovery document found was /llms.txt on ujet.cx, saved verbatim at
+  llms/ujet-llms.txt.
+hosts:
+  - host: https://ujet.cx
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /security.txt
+        status: 404
+      - path: /.well-known/openid-configuration
+        status: 404
+      - path: /.well-known/oauth-authorization-server
+        status: 404
+      - path: /.well-known/api-catalog
+        status: 404
+      - path: /.well-known/ai-plugin.json
+        status: 404
+      - path: /llms.txt
+        status: 200
+        type: text/plain
+        file: ../llms/ujet-llms.txt
+      - path: /robots.txt
+        status: 200
+  - host: https://ujet.co
+    note: Every path answers 308 permanent redirect (domain moved to ujet.cx).
+    documents:
+      - path: /.well-known/security.txt
+        status: 308
+  - host: https://api.ujet.co
+    note: No reachable HTTPS endpoint (connection failed for every path probed).
+    documents:
+      - path: /.well-known/security.txt
+        status: 0

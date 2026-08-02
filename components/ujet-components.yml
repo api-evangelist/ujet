@@ -1,0 +1,36 @@
+generated: '2026-07-21'
+method: searched
+source: https://ujet.cx/mobile-sdk + https://www.npmjs.com/package/@ujet/websdk-headless
+description: >-
+  UJET's embeddable client-side surfaces. UJET's product is delivered into
+  customer apps and websites through embedded SDK components — an in-app
+  mobile support channel (iOS/Android SDKs with biometric authentication and
+  in-app voice/chat) and a web SDK for embedding chat on websites, including
+  a headless npm build for custom UIs. Full component/embed documentation is
+  login-gated (support.ujet.co / ujet.readme.io), so this captures the
+  publicly verifiable surface only.
+families:
+  - family: Mobile SDK
+    description: >-
+      Embedded in-app support for iOS and Android - in-app voice and chat,
+      biometric authentication, and context passing from the host app.
+    docs: https://ujet.cx/mobile-sdk
+    components:
+      - name: UJET iOS SDK
+        kind: native-sdk
+        distribution: https://github.com/ujet/ujet-ios-sdk-sp
+      - name: CCAI Platform iOS SDK
+        kind: native-sdk
+        distribution: https://github.com/ujet/ccai-ios-sdk
+      - name: UJET Android SDK
+        kind: native-sdk
+        distribution: https://sdk.ujet.co/ (UJET-hosted repository; 403 to anonymous clients, not on Maven Central)
+  - family: WebSDK
+    description: >-
+      Embeddable web chat / CCaaS client. The headless build ships on npm for
+      teams building their own UI over UJET's channel infrastructure.
+    components:
+      - name: "@ujet/websdk-headless"
+        kind: headless-library
+        loader: npm install @ujet/websdk-headless --save
+        distribution: https://www.npmjs.com/package/@ujet/websdk-headless

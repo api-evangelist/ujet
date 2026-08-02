@@ -1,0 +1,230 @@
+# UJET
+
+> The industry's first end-to-end agentic CX platform - combining a cloud-native CCaaS foundation, Agentic Experience Orchestration (AXO), and Spiral by UJET conversational intelligence into a single closed-loop system that automates workflows, supercharges agents, and continuously learns from every interaction.
+
+UJET helps organizations move beyond legacy contact center complexity with a platform built natively around AI, CRM-first architecture, and true multimodality. Unlike platforms that bolt AI onto existing infrastructure, UJET was designed from the ground up for the agentic era - where AI doesn't just assist, it acts. UJET provides the "how" of automated and assisted customer interactions, while Spiral by UJET provides the "why" through conversational intelligence and root-cause visibility, creating a continuous feedback loop for improvement.
+
+Key capabilities:
+- Agentic Experience Orchestration (AXO) - persistent AI layer that unifies enterprise systems, automates workflows, and eliminates agent desktop complexity
+- Spiral by UJET - conversational analytics engine that processes 100% of interactions to surface unknown issues, detect sparse signals, and quantify root causes
+- True multimodal support across voice, chat, SMS, email, WhatsApp, and mobile
+- CRM-native architecture with no PII storage in the contact center layer
+- Virtual agents, agent assist, automated summaries, and smart routing
+- Mobile SDK for embedded in-app support and biometric authentication
+- Advanced reporting and conversational analytics for operational control
+- Enterprise security and compliance including SOC 2, HIPAA, and PCI
+- Outbound dialing and proactive customer engagement
+- Integrations across major CRM, WEM, and support platforms
+
+## Key pages
+
+- [Home](https://ujet.cx/): Main overview of UJET and its customer experience platform
+- [Platform overview](https://ujet.cx/overview): Core product capabilities and architecture
+- [Why UJET](https://ujet.cx/why-ujet): Value proposition and differentiation
+- [Agentic Experience Orchestration (AXO)](https://ujet.cx/axo): The industry's first end-to-end agentic CX solution
+- [Spiral by UJET](https://ujet.cx/request-a-demo-spiral): Conversational analytics and customer intelligence
+- [AI](https://ujet.cx/ai): AI product capabilities across the platform
+- [Virtual Agent](https://ujet.cx/virtual-agent): Self-service automation and escalation
+- [Agent Assist](https://ujet.cx/agent-assist): Real-time agent support and coaching
+- [Advanced Reporting](https://ujet.cx/ujet-advanced-reporting): Conversational analytics and reporting
+- [Mobile SDK](https://ujet.cx/mobile-sdk): Embedded mobile and web support
+- [Voice](https://ujet.cx/voice): Voice and routing capabilities
+- [Messaging](https://ujet.cx/messaging): Omnichannel messaging
+- [Outbound Dialer](https://ujet.cx/outbound-dialer): Proactive outbound customer engagement
+- [CRM-Native Architecture](https://ujet.cx/purpose-built-for-the-crm): CRM-first, no-PII architecture
+- [Security](https://ujet.cx/security): Security and compliance information
+- [Integrations](https://ujet.cx/contact-center-software-integrations): Full integrations ecosystem
+- [Pricing](https://ujet.cx/pricing): Pricing details
+- [Request a demo](https://ujet.cx/request-a-demo): Book a product walkthrough
+- [Blog](https://ujet.cx/blog): CX, AI, and contact center thought leadership
+- [Customer stories](https://ujet.cx/customerstories): Customer success stories
+- [Resources](https://ujet.cx/resources): Reports, white papers, webinars, guides, and more
+- [About us](https://ujet.cx/about-us): Company background
+- [Google Cloud partnership](https://ujet.cx/google-cloud-partner): Strategic partnership details
+
+## Solutions and industries
+
+- [Financial services](https://ujet.cx/ujet-for-financial-services): Secure CX for finance teams
+- [Healthcare](https://ujet.cx/ujet-for-healthcare): HIPAA-compliant support for healthcare
+- [Retail](https://ujet.cx/ujet-for-retail): Customer service for retail brands
+- [E-commerce](https://ujet.cx/e-commerce): Digital commerce support
+- [On-demand services](https://ujet.cx/ujet-for-on-demand-services): Support for gig and service platforms
+- [Travel and hospitality](https://ujet.cx/travel-and-hospitality): Customer experience for travel brands
+- [SMB](https://ujet.cx/ujet-for-smb): Scalable support for growing teams
+- [BPO](https://ujet.cx/bpo): Contact center platform for service providers
+
+## Getting started
+
+- [Request a demo](https://ujet.cx/request-a-demo): Book a product walkthrough
+- [Contact sales](https://ujet.cx/contact-sales): Speak with the sales team
+- [Pricing](https://ujet.cx/pricing): Review plan and pricing information
+
+## Sitemap
+
+- [XML sitemap](https://ujet.cx/sitemap.xml): Full page index for UJET
+
+
+llms-full.txt (Comprehensive - for AI crawlers that read the extended version)
+
+# UJET
+
+> The industry's first end-to-end agentic CX platform - combining a cloud-native CCaaS foundation, Agentic Experience Orchestration (AXO), and Spiral by UJET conversational intelligence into a single closed-loop system that automates workflows, supercharges agents, and continuously learns from every interaction.
+
+UJET helps organizations move beyond legacy contact center complexity with a platform built natively around AI, CRM-first architecture, and true multimodality. Unlike platforms that bolt AI onto existing infrastructure, UJET was designed from the ground up for the agentic era - where AI doesn't just assist, it acts.
+
+UJET provides the "how" of automated and assisted customer interactions. Spiral by UJET provides the "why" through conversational intelligence and root-cause visibility. Together they form a closed-loop system: Spiral surfaces the issues, AXO executes the fixes, and the platform continuously learns from every outcome.
+
+Key capabilities:
+- Agentic Experience Orchestration (AXO) - persistent AI layer that unifies enterprise systems, automates workflows, and eliminates agent desktop complexity
+- Spiral by UJET - conversational analytics engine that processes 100% of interactions to surface unknown issues, detect sparse signals, and quantify root causes
+- True multimodal support across voice, chat, SMS, email, WhatsApp, and mobile
+- CRM-native architecture with no PII storage in the contact center layer
+- Virtual agents, agent assist, automated summaries, and smart routing
+- Mobile SDK for embedded in-app support and biometric authentication
+- Advanced reporting and conversational analytics for operational control
+- Enterprise security and compliance including SOC 2, HIPAA, and PCI
+- Outbound dialing and proactive customer engagement
+- Integrations across major CRM, WEM, and support platforms
+- Customer stories, analyst reports, and resource content for CX teams
+
+## Agentic Experience Orchestration (AXO)
+
+AXO is a transformative architectural framework and UJET's most significant product innovation - the industry's first end-to-end agentic CX solution. AXO introduces a persistent AI layer that sits between customer conversations and enterprise systems, eliminating the long-standing bottleneck of forcing human agents to manually bridge disconnected tools during live interactions.
+
+AXO doesn't replace humans - it supercharges them. Rather than telling agents what to do next, AXO empowers agents to execute complex workflows across disparate systems with a single click, while LLM-based Computer-Using Agents (CUAs) complete the backend work - even when APIs are unavailable.
+
+How AXO works:
+- Ingests historical conversations and customer data to deploy autonomous agentic AI virtual agents
+- Automates low-value tasks and seamlessly escalates to humans for high-value or emotive interactions
+- Upon escalation, AI stays in the loop - surfacing relevant CRM/CDP context, real-time summaries, suggested responses, and next-best action
+- Computer-Using Agents execute workflows across back-office systems without requiring API availability
+- Syncs structured tickets and summaries back to data lakes, CDPs, and CRMs to maintain a single source of truth
+- Continuously learns from interaction outcomes, optimizing flows based on successful resolutions and customer sentiment
+
+AXO is currently onboarding select customers (April 2026) with general availability in H2 2026.
+
+- [Agentic Experience Orchestration](https://ujet.cx/axo): Full AXO product details and seven-step framework
+
+## Spiral by UJET
+
+Spiral by UJET is a standalone conversational analytics and customer intelligence product, acquired by UJET in November 2025. Spiral processes 100% of customer conversations across all channels - voice, chat, email, surveys, and social media - with no sampling, no manual tagging, and no legacy taxonomy debt.
+
+Spiral's architecture is built around three core pillars:
+
+**1. Autonomous Taxonomy Generation**
+Spiral uses advanced LLMs and clustering algorithms to build and continuously evolve the entire issue taxonomy automatically. No labels, no spreadsheets, zero bias. The taxonomy adapts as your business and customer issues change, immediately closing the 95% blind spot created by manual categorization.
+
+**2. Ultra-Specific Issue Detection**
+By processing 100% of conversations, Spiral enables early sparse signal detection - finding the critical issues mentioned by only a handful of customers that often become the next major operational fire. Spiral identifies the primary contact driver (Chief Complaint), sub-issues and user stories, and sparse emerging signals weeks before dashboards move.
+
+**3. Searchable AI Agent (Explainable Intelligence)**
+Instead of rigid BI dashboards, Spiral offers a plain-language AI interface that allows teams across Product, Operations, and Finance to ask complex questions and receive financially quantified answers:
+- "Why did handle time spike last week?"
+- "Which issues are driving refunds this month?"
+- "What changed after our latest product release?"
+
+Spiral delivers root-cause clarity no dashboard has ever provided - so every team knows what's happening, why it's happening, who it affects, and how to eliminate the problem at the source.
+
+Spiral by UJET operates as both a standalone product and a deeply integrated component of UJET's broader AI platform. Customers include Turo, Owlet, and Whitepages.
+
+- [Spiral by UJET](https://ujet.cx/request-a-demo-spiral): Conversational analytics and customer intelligence product
+
+## CRM-Native Architecture
+
+UJET's CRM-native architecture is one of its most differentiated technical design decisions. Unlike traditional contact center platforms that store customer data in their own silos, UJET treats the CRM as the system of record - not the contact center. This means:
+
+- No PII is stored in the contact center layer
+- Customer context lives where it belongs - in the CRM or CDP
+- Every interaction is tied to a unified customer record
+- Agents work from a single, contextual view without switching systems
+- Data sovereignty and compliance are structurally enforced, not bolted on
+
+This architecture underpins UJET's security posture (SOC 2, HIPAA, PCI) and makes it uniquely suited for regulated industries including financial services, healthcare, and on-demand platforms.
+
+- [CRM-Native Architecture](https://ujet.cx/purpose-built-for-the-crm): Architecture details and design principles
+
+## Google Cloud Partnership
+
+UJET is a strategic Google Cloud partner, with deep integrations across Google Cloud Contact Center AI (CCAI), Dialogflow CX, Vertex AI, and the broader Google Cloud ecosystem. This partnership positions UJET as a primary deployment vehicle for organizations that want enterprise-grade AI built on Google Cloud infrastructure.
+
+- [Google Cloud partnership](https://ujet.cx/google-cloud-partner): Partnership details and joint capabilities
+
+## Core platform
+
+- [Home](https://ujet.cx/): Main entry point for UJET
+- [Platform overview](https://ujet.cx/overview): Core capabilities and product architecture
+- [Why UJET](https://ujet.cx/why-ujet): Differentiation and value proposition
+- [Agentic Experience Orchestration](https://ujet.cx/axo): End-to-end agentic CX framework
+- [Spiral by UJET](https://ujet.cx/spiral): Conversational analytics and customer intelligence
+- [AI](https://ujet.cx/ai): AI capabilities across the platform
+- [Virtual Agent](https://ujet.cx/virtual-agent): Self-service automation
+- [Agent Assist](https://ujet.cx/agent-assist): Real-time coaching and assistance
+- [Advanced Reporting](https://ujet.cx/ujet-advanced-reporting): Analytics and reporting
+- [Mobile SDK](https://ujet.cx/mobile-sdk): Embedded mobile and web experiences
+- [Voice](https://ujet.cx/voice): Inbound and outbound voice
+- [Messaging](https://ujet.cx/messaging): Omnichannel messaging
+- [Outbound Dialer](https://ujet.cx/outbound-dialer): Proactive outbound campaigns
+- [Intelligent Omnichannel](https://ujet.cx/intelligent-omnichannel): Contextual cross-channel journeys
+- [Intelligence and Automation](https://ujet.cx/intelligence-automation): Automation across the contact center
+- [Security](https://ujet.cx/security): Security, privacy, and compliance
+- [CRM-Native Architecture](https://ujet.cx/purpose-built-for-the-crm): CRM-first architecture details
+
+## Integrations
+
+- [All integrations](https://ujet.cx/contact-center-software-integrations): Integration ecosystem overview
+- [Salesforce](https://ujet.cx/integrations/salesforce-sales-cloud-crm): Salesforce integration
+- [Zendesk](https://ujet.cx/integrations/zendesk-crm): Zendesk integration
+- [Microsoft Dynamics](https://ujet.cx/integrations/microsoft-dynamics-crm): Microsoft Dynamics integration
+- [Kustomer](https://ujet.cx/integrations/kustomer-crm): Kustomer integration
+- [Oracle](https://ujet.cx/integrations/ujet-for-oracle-service-cloud): Oracle Service Cloud integration
+- [HubSpot](https://ujet.cx/softwareintegrations/hubspot): HubSpot integration
+- [ServiceNow](https://ujet.cx/softwareintegrations/service-now-integration): ServiceNow integration
+- [Microsoft Teams](https://ujet.cx/microsoft-teams-integration): Collaboration and escalation integration
+- [Google Cloud partnership](https://ujet.cx/google-cloud-partner): Partnership page
+
+## Solutions and industries
+
+- [Financial services](https://ujet.cx/ujet-for-financial-services): Secure, compliant CX for finance teams
+- [Healthcare](https://ujet.cx/ujet-for-healthcare): HIPAA-compliant support for healthcare
+- [Retail](https://ujet.cx/ujet-for-retail): Customer service for retail brands
+- [E-commerce](https://ujet.cx/e-commerce): Digital commerce support
+- [On-demand services](https://ujet.cx/ujet-for-on-demand-services): Support for gig and service platforms
+- [Travel and hospitality](https://ujet.cx/travel-and-hospitality): Customer experience for travel brands
+- [SMB](https://ujet.cx/ujet-for-smb): Scalable support for growing teams
+- [BPO](https://ujet.cx/bpo): Contact center platform for service providers
+
+## Resources
+
+- [Blog](https://ujet.cx/blog): Articles on customer experience, AI, and contact center strategy
+- [Customer stories](https://ujet.cx/customerstories): Customer success stories
+- [Press](https://ujet.cx/press): News, launches, partnerships, and announcements
+- [Events](https://ujet.cx/events): Industry events and UJET participation
+- [Reports](https://ujet.cx/resources/reports): Analyst reports and research
+- [White papers](https://ujet.cx/resources/white-papers): In-depth platform and industry content
+- [Webinars](https://ujet.cx/resources/webinars): On-demand educational content
+- [Solution briefs](https://ujet.cx/resources/solution-briefs): Industry-focused summaries
+- [Guides](https://ujet.cx/resources/guides): Practical guides for CX teams
+
+## Getting started
+
+- [Request a demo](https://ujet.cx/request-a-demo): Book a product walkthrough
+- [Contact sales](https://ujet.cx/contact-sales): Speak with the sales team
+- [Pricing](https://ujet.cx/pricing): Review plan and pricing information
+
+## Company
+
+- [About us](https://ujet.cx/about-us): Company background and mission
+- [Leadership](https://ujet.cx/leadership): Executive team
+- [Awards](https://ujet.cx/awards): Industry recognition
+- [Careers](https://ujet.cx/careers): Open roles and company information
+
+## Legal
+
+- [Privacy notice](https://ujet.cx/privacy-notice)
+- [Terms of service](https://ujet.cx/terms-of-service)
+- [Data processing agreement](https://ujet.cx/data-processing-agreement)
+- [Service level agreement](https://ujet.cx/service-level-agreement)
+
+## Sitemap
+
+- [XML sitemap](https://ujet.cx/sitemap.xml): Full page index for UJET
