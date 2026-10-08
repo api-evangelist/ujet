@@ -1,0 +1,93 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://ujet.cx/pricing
+sources:
+- https://ujet.cx/pricing
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: per-seat
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+  managed_tier: Basic
+published: true
+note: Per-user-per-month contact center packages with add-ons; AI add-ons and Microsoft Teams quote-only.
+plan_count: 11
+currency: USD
+plans:
+- name: Basic
+  price_text: $65 user/month
+  price: 65
+  currency: USD
+  period: month
+  unit: user
+  included_quota: PSTN Voice Channel, Standard Reports & Dashboards, Single Sign-On, CRM Adapters, Web
+    SDK, Standard Support
+- name: Pro
+  price_text: $99 user/month
+  price: 99
+  currency: USD
+  period: month
+  unit: user
+  included_quota: 'Includes Basic Plus: Agent Desktop Experience, SMS Blending, Smart Actions, Mobile
+    SDK, Advanced Reports & Dashboards, APIs & Data Exporter, Premium Support'
+- name: Enterprise
+  price_text: $120 user/month
+  price: 120
+  currency: USD
+  period: month
+  unit: user
+  included_quota: 'Includes Pro Plus: Chat Channel, Email Channel, SMS Channel, Social Channel'
+- name: Digital
+  price_text: $69 user/month
+  price: 69
+  currency: USD
+  period: month
+  unit: user
+  included_quota: Digital Channels (Chat, Email, SMS, Social, and In-App Voice), Agent Desktop Experience,
+    Advanced Reports & Dashboards, APIs & Data Exporter, Web & Mobile SDKs, Premium Support
+- name: Chat Channel add-on
+  price_text: $10 /User
+  price: 10
+  currency: USD
+  period: month
+  unit: user
+- name: Outbound Dialer add-on
+  price_text: $15 /User
+  price: 15
+  currency: USD
+  period: month
+  unit: user
+- name: CoBrowse (Web) add-on
+  price_text: $20 /User
+  price: 20
+  currency: USD
+  period: month
+  unit: user
+- name: CoBrowse (Web+Mobile) add-on
+  price_text: $40 /User
+  price: 40
+  currency: USD
+  period: month
+  unit: user
+- name: Workforce Management add-on
+  price_text: $30 /User
+  price: 30
+  currency: USD
+  period: month
+  unit: user
+- name: PSTN Voice (Digital Package Only)
+  price_text: $50 /User
+  price: 50
+  currency: USD
+  period: month
+  unit: user
+- name: Conversational AI Add-ons
+  price_text: Get a Quote
+  period: none
+  included_quota: Virtual Agent (Voice/Chat), Agent Assist, Summarization, Insights
